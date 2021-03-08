@@ -19,4 +19,9 @@ Avy wants to open a surf and ice cream shop on Oahu. However, he's hesitate to d
 ## Summary 
 
 Avy's ice cream and surf shop business will need good weather year-round in order to thrive and this analysis shows that temperatures on Oahu are consistent from summer to winter with average temperatures only slightly cooler in December.
-Another factor in whether or not a surf shop business will be successful other than temperature is precipitation, therefore it would be helpful to run an analysis on average monthly rainfall to see if there are seasonal differences that may impact the success of the business. Additionally, it might be interesting to see how long rainy weather lasts in a given time period to try to see if there would be more consecutive days of rain during a certain season. 
+
+
+Another factor in whether or not a surf shop business will be successful other than temperature is precipitation, therefore it would be helpful to run an analysis on average monthly rainfall to see if there are seasonal differences that may impact the success of the business. 
+
+
+Additionally, it might be interesting to see how long rainy weather lasts in a given time period to try to see if there would be more consecutive days of rain during a certain season. 
