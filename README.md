@@ -12,7 +12,11 @@ Avy wants to open a surf and ice cream shop on Oahu. However, he's hesitate to d
 ![alt text](https://github.com/kmfriesen/surfs_up/blob/main/Resources/December_temperatures.PNG)
 
 - June and December have similar average (mean) temperatures with less than a 5 degree average difference between the two months. 
+
+
 - There is slightly more variation in temperature in December than in June as shown by the higher standard deviation.  
+
+
 - Both the minimum and maximum temperatures were not too far from average meaning that Hawaii does not have that big of temperature changes between the summer and winter. 
 
 
