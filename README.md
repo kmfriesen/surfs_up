@@ -1,8 +1,19 @@
-# surfs_up
+# Surfs Up
+
+## Overview
+Avy wants to open a surf and ice cream shop on Oahu. However, he's hesitate to do so before knowing more information about temperature trends to make sure that the business would be sustainable year-round. Therefore, an analysis of Oahu temperature data was preformed for the months of June and Decemeber. 
 
 
 
-Avy likes your analysis, but he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
+
+## Results
+
+
+
+
+
+
+## Summary 
 
 
 For this part of the Challenge, write a report that describes the key differences in weather between June and December and two recommendations for further analysis.
