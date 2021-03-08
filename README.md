@@ -8,37 +8,15 @@ Avy wants to open a surf and ice cream shop on Oahu. However, he's hesitate to d
 
 ## Results
 
+![alt text](https://github.com/kmfriesen/surfs_up/blob/main/Resources/June_temperatures.PNG)
+![alt text](https://github.com/kmfriesen/surfs_up/blob/main/Resources/December_temperatures.PNG)
 
-
-
+- June and December have similar average (mean) temperatures with less than a 5 degree average difference between the two months. 
+- There is slightly more variation in temperature in December than in June as shown by the higher standard deviation.  
+- Both the minimum and maximum temperatures were not too far from average meaning that Hawaii does not have that big of temperature changes between the summer and winter. 
 
 
 ## Summary 
 
-
-For this part of the Challenge, write a report that describes the key differences in weather between June and December and two recommendations for further analysis.
-
-The analysis should contain the following:
-
-Overview of the analysis: Explain the purpose of this analysis.
-Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
-Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
-Deliverable 3 Requirements
-Structure, Organization, and Formatting (6 points)
-The written analysis has the following structure, organization, and formatting:
-
-There is a title, and there are multiple sections. (2 pt)
-Each section has a heading and subheading. (2 pt)
-Links to images are working and displayed correctly. (2 pt)
-Analysis (14 points)
-The written analysis has the following:
-
-Overview of the statistical analysis:
-
-The purpose of the analysis is well defined. (3 pt)
-Results:
-
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
-Summary:
-
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
+Avy's ice cream and surf shop business will need good weather year-round in order to thrive and this analysis shows that temperatures on Oahu are consistent from summer to winter with average temperatures only slightly cooler in December.
+Another factor in whether or not a surf shop business will be successful other than temperature is precipitation, therefore it would be helpful to run an analysis on average monthly rainfall to see if there are seasonal differences that may impact the success of the business. Additionally, it might be interesting to see how long rainy weather lasts in a given time period to try to see if there would be more consecutive days of rain during a certain season. 
